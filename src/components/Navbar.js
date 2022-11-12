@@ -7,7 +7,7 @@ import InputBase from "@material-ui/core/InputBase";
 import SearchIcon from "@material-ui/icons/Search";
 import Switch from "@material-ui/core/Switch";
 import { withStyles } from "@material-ui/core/styles";
-import styles from "./styles/NavBarStyles";
+import styles from "../styles/NavBarStyles";
 
 class Navbar extends Component {
   render() {
